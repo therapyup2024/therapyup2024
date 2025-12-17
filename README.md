@@ -24,3 +24,64 @@
 - 🔐 Segurança e privacidade dos dados
 
 ---
+
+<h3 align="center">Colaboradores</h3>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AmandaGitH">
+        <img src="https://avatars.githubusercontent.com/u/181160672?v=4" width="100px;" alt=""/><br />
+        <sub><b>Amanda Iasmin</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cleberhdev">
+        <img src="https://avatars.githubusercontent.com/u/141072429?v=4" width="100px;" alt=""/><br />
+        <sub><b>Cleber Henrique</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/franciscodevpro">
+        <img src="https://avatars.githubusercontent.com/u/173816316?v=4" width="100px;" alt=""/><br />
+        <sub><b>Francisco</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Izaque123">
+        <img src="https://avatars.githubusercontent.com/u/106625747?v=4" width="100px;" alt=""/><br />
+        <sub><b>Izaque Nicolas</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/josehenriquevs">
+        <img src="https://avatars.githubusercontent.com/u/187699545?v=4" width="100px;" alt=""/><br />
+        <sub><b>José Henrique</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Matheus10DV">
+        <img src="https://avatars.githubusercontent.com/u/192535212?v=4" width="100px;" alt=""/><br />
+        <sub><b>Matheus Ribeiro</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Victor-Sarris">
+        <img src="https://avatars.githubusercontent.com/u/178488451?v=4" width="100px;" alt=""/><br />
+        <sub><b>Victor Sarrís</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/imnotSabrina">
+        <img src="https://avatars.githubusercontent.com/u/106186281?v=4" width="100px;" alt=""/><br />
+        <sub><b>Sabrina Laís</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
