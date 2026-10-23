@@ -70,7 +70,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/imnotsarris">
+      <a href="https://github.com/iamnotsarris">
         <img src="https://avatars.githubusercontent.com/u/178488451?v=4" width="100px;" alt=""/><br />
         <sub><b>Victor Sarrís</b></sub>
       </a>
